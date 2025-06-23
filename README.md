@@ -8,9 +8,10 @@ Built by: *Gabe Ramirez*
 
 A full-stack data visualization dashboard. This app fetches structured data from the Notion API and converts it into interactive visualizations. 
 
-This app is built with
+I learned to work with and apply the following libraries and technologies:
 - React (configured w/ Vite)
 - Node.js + Express.js
+- Notion API Calls
 - [React Router](https://reactrouter.com/) (for navigation)
 - [Tailwind](https://tailwind.build/classes) (styling)
 - [Recharts](https://recharts.org/en-US/examples) (React components library for data visualization)
