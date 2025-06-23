@@ -1,6 +1,9 @@
 # Notion Data Dashboard
 Built by: *Gabe Ramirez*
 
+![SampleImage](https://github.com/user-attachments/assets/933241e5-81a5-45ea-9bf2-432643b3e6d0)
+
+
 ## TLDR;
 
 A full-stack data visualization dashboard. This app fetches structured data from the Notion API and converts it into interactive visualizations. 
